@@ -25,6 +25,9 @@ const whenExternalScripts = (items = []) =>
   hasExternalScripts ? (Array.isArray(items) ? items.map((item) => item()) : [items()]) : [];
 
 export default defineConfig({
+  site: 'https://jmhayes3.github.io',
+  base: 'jmhayes.dev',
+
   output: 'static',
 
   integrations: [
