@@ -1,5 +1,5 @@
 site:
-  name: AstroWind
+  name: jmhayes.dev
   site: 'https://github.com/jmhayes3/jmhayes.dev'
   base: '/jmhayes.dev'
   trailingSlash: false
