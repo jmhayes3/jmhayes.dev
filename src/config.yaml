@@ -1,7 +1,7 @@
 site:
   name: AstroWind
   site: 'https://github.com/jmhayes3/jmhayes.dev'
-  base: '/'
+  base: '/jmhayes.dev'
   trailingSlash: false
 
   googleSiteVerificationId: false
@@ -9,9 +9,9 @@ site:
 # Default SEO metadata
 metadata:
   title:
-    default: AstroWind
-    template: '%s — AstroWind'
-  description: "\U0001F680 Suitable for Startups, Small Business, Sass Websites, Professional Portfolios, Marketing Websites, Landing Pages & Blogs."
+    default: jmhayes.dev
+    template: '%s — jmhayes.dev'
+  description: 'jmhayes.dev'
   robots:
     index: true
     follow: true
